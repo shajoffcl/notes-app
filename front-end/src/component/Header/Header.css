@@ -1,0 +1,10 @@
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  background: #eeee;
+  padding: 10px;
+}
+
+.nav-item {
+  cursor: pointer;
+}
